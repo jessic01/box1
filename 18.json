@@ -4,8 +4,7 @@
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 "sites":[
-	
-{"key":"csp_xBPQ_鸭奈飞影视","name":"鸭奈飞影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/鸭奈飞影视.json"},	
+		
 
 {"key":"csp_hsck","name":"JAV〔SP〕","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jessic01/box1/main/JAR/18.jar"},	
 
