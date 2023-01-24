@@ -5,8 +5,6 @@
 
 "sites":[
 
-{"key":"csp_appysv2_佑尘云影视","name":"佑尘云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"},  
-
 {"key":"csp_hsck","name":"黄仓库〔SP〕","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar":"https://raw.fastgit.org/jessic01/box1/main/JAR/18.jar"},	
 
 {"key":"csp_XYQHiker_18AV","name":"18AV(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/jessic01/box1/main/XYQH/18AV.json"},
