@@ -133,7 +133,7 @@
 {"key":"91麻豆","name":"91麻豆(切)","type":1,"api":"https://91md.me/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"速播资源","name":"速播资源(切)","type":1,"api":"https://api.suboapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 
-
+{"key":"青楼资源","name":"青楼资源(切)","type":1,"api":"https://qlzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"爱播资源","name":"爱播资源(切)","type":1,"api":"https://cj.apiabzy.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 
 {"key":"色猫资源","name":"色猫资源(切)","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
