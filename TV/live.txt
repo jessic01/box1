@@ -1,4 +1,4 @@
- 央视频道,#genre#
+央视频道,#genre#
 CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
 CCTV3,http://125.210.152.19:9120/live/hzgq-cctv3gq-h264.m3u8
@@ -181,14 +181,26 @@ CETV1,http://222.71.90.218:8888/newlive/live/hls/48/live.m3u8
 
 港澳台,#genre#
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+
+
+探索频道,http://66.181.39.224/ml.php?id=discoverych_twn
+探索亚洲,http://66.181.39.224/ml.php?id=discoverytwn_twn
+BBC EARTH,http://66.181.39.224/ml.php?id=bbcearth_twn
+动物星球,http://66.181.39.224/ml.php?id=animalplanet_twn
+国家地理,http://66.181.39.224/ml.php?id=natgeohd_twn
+国家地理野生,http://66.181.39.224/ml.php?id=natgeowild_twn
+HBO HD,http://66.181.39.224/ml.php?id=hbohd_twn
+HBO FAMILY,http://66.181.39.224/ml.php?id=fyi_twn
+HBO HITS,http://66.181.39.224/ml.php?id=hbohead_twn
+HBO SIGNATURE,http://66.181.39.224/ml.php?id=hbosignature_twn
+WARNERTV,http://66.181.39.224/ml.php?id=WarnerTV
+
 
 
 翡翠台,http://r.jdshipin.com/qClQf
 明珠台,http://r.jdshipin.com/ZQ4kN
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-巴西_Universal,http://208.115.225.174:14128
+
 WB TV,http://208.115.225.174:14132
 HBO,http://208.115.225.174:14136
 HBO 2,http://208.115.225.174:14140
