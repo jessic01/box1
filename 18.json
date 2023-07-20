@@ -92,7 +92,8 @@
 {"key":"易看资源-伦理","name":"易看资源-伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"奥斯卡","name":"奥斯卡","type":0,"api":"https://aosikazy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-  
+{"key":"艾旦影视","name":"艾旦","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"categories":["福利","福利片","伦理片"],"quickSearch":1},
+
 {"key": "AIvin","name": "AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},	  
 {"key":"亚洲成人在线","name":"亚洲成人在线(切)","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"草榴视频","name":"草榴视频(切)","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":1,"quickSearch":1},
