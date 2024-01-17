@@ -1499,29 +1499,7 @@ Fetish-tv成人台,rtmp://123.108.164.71/etv2sb/pld968
 VisitxTV成人台,rtmp://123.108.164.71/etv2sb/pld991
 playy2成人台,rtmp://123.108.164.71/etv2sb/pld992
 CR频道|strictlybellydancing,rtsp://46.249.213.87/broadcast/strictlybellydancing-tablet.3gp
-韩国1,rtmp://123.108.164.71/etv2/pld1003
-韩国1,rtmp://edge2.everyon.tv/etv2/pld1003
-韩国2,rtmp://123.108.164.71/etv2/pld1005
-韩国2,rtmp://edge2.everyon.tv/etv2/pld1005
-韩国3,rtmp://123.108.164.71/etv2/pld1006
-韩国3,rtmp://edge2.everyon.tv/etv2/pld1006
-韩国4,rtmp://123.108.164.71/etv2/pld1008
-韩国4,rtmp://edge2.everyon.tv/etv2/pld1008
-松视1,rtmp://149.3.141.210/tv//ttv11
-松视4,rtmp://149.3.141.210/tv//ttv12
-韩国,rtmp://edge1.everyon.tv/etv1sb/phd765
-新韩国1,rtmp://edge2.everyon.tv/etv2/phd1003
-新韩国3,rtmp://edge2.everyon.tv/etv2/phd1005
-新韩国11,rtmp://edge2.everyon.tv:1935/etv2/phd1003
-新韩国16,rtmp://edge2.everyon.tv:1935/etv2/phd877
-新韩国26,rtmp://edge2.everyon.tv/etv2/phd1005
-HD欧美131,http://video5.thepluginz.com/30/oldgoesyoung_036/hosted_flash/big_5.mp4
-韩国有码标清04,rtmp://123.108.164.71/etv2sb/pld62
-韩国有码标清05,rtmp://123.108.164.71/etv2sb/pld63
-韩国有码标清06,rtmp://123.108.164.71/etv2sb/pld64
-韩国有码标清08,rtmp://123.108.164.71/etv2sb/pld499
-韩国有码标清09,rtmp://123.108.164.71/etv2sb/pld501
-韩国有码标清10,rtmp://123.108.164.71/
+
 欧美MV,#genre#
 The Pussycat Dolls - React-[91M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp4PxhwYo6eLmugQ.mp4
 Thalía, Mau y Ricky - Ya Tú Me Conoces-[60M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghoPxhwYo9buQ_QI.mp4
